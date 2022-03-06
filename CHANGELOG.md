@@ -2,7 +2,7 @@
 
 ## [Unreleased][unreleased]
 
-## [1.27.0] - 2021-03-04
+## [1.27.0] - 2022-03-04
 
 ### Added
 - It's now possible to add new group members by their email addresses
